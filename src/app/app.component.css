@@ -1,0 +1,11 @@
+.firstdiv{
+    border: 1px outset red;
+    background-color: rgba(250, 223, 223, 0.833);    
+    text-align: center;
+}
+.seconddiv{
+    border: 1px outset red;
+    background-color: rgb(66, 69, 69);    
+    text-align: center;
+
+}
